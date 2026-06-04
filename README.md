@@ -26,7 +26,7 @@ Output lands in `dist/`.
 
 ## Deploy
 
-Pushing to `main` deploys to `docs.onlooker.dev`. To deploy locally:
+Once the Cloudflare project and GitHub deploy hook are set up, pushing to `main` deploys to `docs.onlooker.dev`. To deploy locally:
 
 ```sh
 npm run deploy
